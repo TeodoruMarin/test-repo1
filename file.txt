@@ -2,4 +2,4 @@ This is the beginning of file
 
 Doing more work here
 
-wrapping up this work here
+wrapping up this work here.
